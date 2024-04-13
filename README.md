@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakshitha Reddy
 - 🌱 I’m currently learning Data Structures and Algorithms ,Full stack development.
-- 📫 How to reach me ... rakshithareddypaladugu@gmail.com
+- 📫 How to reach me - rakshithareddypaladugu@gmail.com
 
 
 <!---

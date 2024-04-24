@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakshitha Reddy
-- 🌱 I’m currently learning Data Structures and Algorithms ,Full stack development.
+- 🌱 I’m Interested in Full stack development,Data Structures and Algorithms.
 - 📫 How to reach me - rakshithareddypaladugu@gmail.com
 
 
